@@ -1,0 +1,120 @@
+{
+  "Bharatiya Nyaya Sanhita, 2023 (BNS) [Major Act]": [
+    {
+      "section": "Sec 1",
+      "chapter": "Chapter I: Preliminary",
+      "title_en": "Short title, extent and commencement",
+      "title_hi": "संक्षिप्त नाम, विस्तार और प्रारंभ",
+      "bare_en": "(1) This Act may be called the Bharatiya Nyaya Sanhita, 2023. (2) It shall come into force on such date as the Central Government may, by notification in the Official Gazette, appoint. (3) It extends to the whole of India.",
+      "bare_hi": "(1) इस अधिनियम का संक्षिप्त नाम भारतीय न्याय संहिता, 2023 है। (2) यह उस तारीख को प्रवृत्त होगा जिसे केंद्रीय सरकार, राजपत्र में अधिसूचना द्वारा, नियत करे। (3) इसका विस्तार संपूर्ण भारत पर है।",
+      "notes_en": "Key Note: Replaced the Indian Penal Code (IPC), 1860 with effect from 1st July 2024 across the entire territory of India.",
+      "notes_hi": "मुख्य बिंदु: 1 जुलाई 2024 से संपूर्ण भारत में लागू हुआ और भारतीय दंड संहिता (IPC) 1860 को पूरी तरह प्रतिस्थापित किया।",
+      "qa": [
+        {
+          "q": "From which date did BNS, 2023 come into force?",
+          "a": "1st July 2024."
+        }
+      ]
+    },
+    {
+      "section": "Sec 103",
+      "chapter": "Chapter VI: Offences Affecting Life",
+      "title_en": "Punishment for murder",
+      "title_hi": "हत्या के लिए दंड",
+      "bare_en": "(1) Whoever commits murder shall be punished with death or imprisonment for life, and shall also be liable to fine. (2) When a group of five or more persons acting in concert commits murder on the ground of race, caste, community, sex, place of birth, language, or personal belief, each person shall be punished with death or life imprisonment, and fine.",
+      "bare_hi": "(1) जो कोई हत्या करेगा, वह मृत्यु या आजीवन कारावास से दंडित किया जाएगा, और जुर्माने का भी दायी होगा। (2) जब पांच या अधिक व्यक्तियों का समूह मिलकर जाति, समुदाय, लिंग, जन्म स्थान, भाषा या व्यक्तिगत विश्वास के आधार पर हत्या करता है, तो प्रत्येक व्यक्ति मृत्युदंड या आजीवन कारावास और जुर्माने से दंडित होगा।",
+      "notes_en": "Replaces Section 302 IPC. Sub-section (2) introduces a stringent, distinct penalty for Mob Lynching.",
+      "notes_hi": "IPC की धारा 302 के स्थान पर। उपधारा (2) में मॉब लिंचिंग (भीड़ द्वारा हत्या) के लिए अलग से कठोर दंड का विशेष प्रावधान जोड़ा गया है।",
+      "qa": [
+        {
+          "q": "What is the minimum punishment under Section 103(1) BNS?",
+          "a": "Imprisonment for life along with fine."
+        },
+        {
+          "q": "Which sub-section of Section 103 deals with murder by a mob of five or more?",
+          "a": "Sub-section (2)."
+        }
+      ]
+    }
+  ],
+  "Bharatiya Nagarik Suraksha Sanhita, 2023 (BNSS) [Major Act]": [
+    {
+      "section": "Sec 35",
+      "chapter": "Chapter V: Arrest of Persons",
+      "title_en": "When police may arrest without warrant",
+      "title_hi": "पुलिस वारंट के बिना कब गिरफ्तार कर सकेगी",
+      "bare_en": "(1) Any police officer may without an order from a Magistrate and without a warrant, arrest any person who has been concerned in any cognizable offence, punishable with imprisonment for a term which may be less than seven years or which may extend to seven years...",
+      "bare_hi": "(1) कोई भी पुलिस अधिकारी मजिस्ट्रेट के आदेश के बिना और वारंट के बिना किसी ऐसे व्यक्ति को गिरफ्तार कर सकता है जो किसी ऐसे संज्ञेय अपराध से संबंधित रहा हो, जो सात वर्ष से कम या सात वर्ष तक के कारावास से दंडनीय है...",
+      "notes_en": "Replaces Section 41 CrPC. Sub-section (7) provides that no arrest shall be made for an offence punishable with less than 3 years if the person is infirm or over 60 years of age, except with prior permission of an officer not below DSP rank.",
+      "notes_hi": "CrPC की धारा 41 का नया रूप। उपधारा (7) के तहत 3 साल से कम सजा वाले मामलों में यदि व्यक्ति बीमार या 60 वर्ष से अधिक उम्र का है, तो DSP स्तर के अधिकारी की अनुमति के बिना गिरफ्तारी नहीं की जा सकती।",
+      "qa": [
+        {
+          "q": "Which officer's permission is needed before arresting an infirm or 60+ year old person under Sec 35(7)?",
+          "a": "An officer not below the rank of Deputy Superintendent of Police (DSP)."
+        }
+      ]
+    }
+  ],
+  "Negotiable Instruments Act, 1881 [Loan & Banking Law]": [
+    {
+      "section": "Sec 138",
+      "chapter": "Chapter XVII: Penalties in case of Dishonour of Cheques",
+      "title_en": "Dishonour of cheque for insufficiency, etc., of funds in the account",
+      "title_hi": "खाते में धन की अपर्याप्तता आदि के कारण चेक का अनादर (बाउंस)",
+      "bare_en": "Where any cheque drawn by a person on an account maintained by him with a banker for payment of any amount of money to another person from out of that account for the discharge, in whole or in part, of any debt or other liability, is returned by the bank unpaid, either because of the amount of money standing to the credit of that account is insufficient...",
+      "bare_hi": "जहाँ किसी व्यक्ति द्वारा किसी अन्य व्यक्ति को किसी ऋण या अन्य दायित्व के पूर्ण या आंशिक उन्मोचन के लिए अपने बैंक खाते से किसी राशि के भुगतान हेतु जारी किया गया चेक बैंक द्वारा बिना भुगतान के इसलिए लौटा दिया जाता है कि खाते में राशि अपर्याप्त है...",
+      "notes_en": "Essential Timeline: 1. Cheque validity: 3 months. 2. Legal Notice: Within 30 days of receiving bank return memo. 3. Grace Period: 15 days to payer to make payment. 4. Limitation for complaint: 1 month from expiry of 15-day notice period (Sec 142). Punishment: Up to 2 years imprisonment or fine up to twice the cheque amount, or both.",
+      "notes_hi": "महत्वपूर्ण समय सीमाएं: 1. चेक की वैधता: 3 माह। 2. लीगल नोटिस: चेक बाउंस मेमो मिलने के 30 दिनों के भीतर। 3. भुगतान का समय: नोटिस मिलने के बाद 15 दिन। 4. परिवाद (Complaint) दाखिल करने की मियाद: 15 दिन बीतने के बाद 1 महीने के भीतर (धारा 142)। सजा: 2 वर्ष तक का कारावास या चेक राशि का दोगुना जुर्माना, या दोनों।",
+      "qa": [
+        {
+          "q": "What is the maximum fine that can be imposed under Section 138 NI Act?",
+          "a": "Twice the amount of the dishonoured cheque."
+        },
+        {
+          "q": "How many days must be given to the drawer to pay before filing a Section 138 complaint?",
+          "a": "15 days from the date of receipt of the legal demand notice."
+        }
+      ]
+    }
+  ],
+  "SARFAESI Act, 2002 [Loan Recovery Law]": [
+    {
+      "section": "Sec 13",
+      "chapter": "Chapter III: Enforcement of Security Interest",
+      "title_en": "Enforcement of security interest",
+      "title_hi": "प्रतिभूति हित का प्रवर्तन (बिना अदालत के वसूली)",
+      "bare_en": "(1) Any security interest created in favour of any secured creditor may be enforced, without the intervention of the court or tribunal, by such creditor in accordance with the provisions of this Act. (2) Secured creditor may require the borrower by notice in writing to discharge in full his liabilities within sixty days from the date of notice...",
+      "bare_hi": "(1) किसी सुरक्षित लेनदार के पक्ष में बनाया गया कोई भी प्रतिभूति हित न्यायालय या अधिकरण के हस्तक्षेप के बिना इस अधिनियम के उपबंधों के अनुसार लागू किया जा सकता है। (2) सुरक्षित लेनदार लिखित नोटिस द्वारा बकाएदार से नोटिस की तारीख से साठ दिनों के भीतर अपनी देनदारियों का पूर्ण भुगतान करने की मांग कर सकता है...",
+      "notes_en": "Sec 13(2): 60 days demand notice. Sec 13(3A): Borrower can make representation/objection; Bank must reply within 15 days. Sec 13(4): Bank can take symbolic/physical possession of secured asset upon default.",
+      "notes_hi": "धारा 13(2): 60 दिनों का मांग नोटिस। धारा 13(3A): बकाएदार आपत्ति जता सकता है; बैंक को 15 दिनों में कारण सहित जवाब देना अनिवार्य है। धारा 13(4): भुगतान न होने पर बैंक गिरवी रखी संपत्ति का वास्तविक या प्रतीकात्मक कब्जा ले सकता है।",
+      "qa": [
+        {
+          "q": "What is the notice period granted to a borrower under Section 13(2) of SARFAESI Act?",
+          "a": "60 days."
+        },
+        {
+          "q": "Within how many days can an aggrieved person challenge Section 13(4) measures before the DRT?",
+          "a": "Within 45 days under Section 17 of the Act."
+        }
+      ]
+    }
+  ],
+  "Specific Relief Act, 1963 [Civil / Minor Act]": [
+    {
+      "section": "Sec 10",
+      "chapter": "Chapter II: Specific Performance of Contracts",
+      "title_en": "Specific performance in respect of contracts",
+      "title_hi": "संविदाओं का विनिर्दिष्ट पालन",
+      "bare_en": "The specific performance of a contract shall be enforced by the court subject to the provisions contained in sub-section (2) of section 11, section 14 and section 16.",
+      "bare_hi": "न्यायालय द्वारा संविदा का विनिर्दिष्ट पालन धारा 11 की उपधारा (2), धारा 14 और धारा 16 के उपबंधों के अधीन रहते हुए कराया जाएगा।",
+      "notes_en": "Post-2018 Amendment: Specific performance is no longer discretionary; the word 'may' was replaced by 'shall', making specific performance mandatory unless barred under sections 11(2), 14, or 16.",
+      "notes_hi": "2018 संशोधन के बाद: संविदा का विनिर्दिष्ट पालन कराना अब अदालत का विवेकाधिकार नहीं बल्कि अनिवार्य (Mandatory) नियम बन गया है ('may' की जगह 'shall' किया गया)।",
+      "qa": [
+        {
+          "q": "Is specific performance of a contract discretionary after the 2018 Amendment?",
+          "a": "No, it is mandatory, subject to sections 11(2), 14, and 16."
+        }
+      ]
+    }
+  ]
+}
